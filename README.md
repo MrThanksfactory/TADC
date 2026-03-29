@@ -6,4 +6,4 @@ Projet dans le futur d'une IA creative ou sinon car c'est trop dur un programme 
 <br>Media/Pictures: contient toutes les images qu'a assimilé l'IA de Caine + qql screen de l'ep8.
 
 <br><br><strong>Caine est une Machine Learning discriminatif et non supervisé accés sur des données ne contenant que des images.</strong>
-
+<br><!--On va d'abbord commencé par un programe/IA supervisé pour ensuite allez sur du clustering ou non supervisé.-->
