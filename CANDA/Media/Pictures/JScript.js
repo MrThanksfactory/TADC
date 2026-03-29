@@ -1,5 +1,5 @@
 const canvas=
-  document.getElementById('canavs');
+  document.getElementById('canvas');
 canvas.getContext('2d');
 const images=
   [
