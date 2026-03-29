@@ -41,5 +41,5 @@ images.forEach(img => {
 const dist = Math.hypot(dx, dy);
 if (dist <100) {
   img.scale =1.2;
-  ctx.filter = 'grayscale(0)'
+  ctx.filter = 'grayscale(0)';
 }
