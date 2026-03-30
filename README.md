@@ -7,3 +7,4 @@ Projet dans le futur d'une IA creative ou sinon car c'est trop dur un programme 
 
 <br><br><strong>Caine est une Machine Learning discriminatif et non supervisé accés sur des données ne contenant que des images.</strong>
 <br><!--On va d'abbord commencé par un programe/IA supervisé pour ensuite allez sur du clustering ou non supervisé.-->
+<!-- Ensuite pour le résultat final j'aimerais bien qu'en reconnaisant les formes géométriques sur l'image qu'elle renvoie au client cette forme sous résultat génératif car le client ne peut pas avoir accès à l'image car il fera parti de l'espace développeur/admin.-->
