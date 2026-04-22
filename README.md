@@ -6,7 +6,7 @@ Projet dans le futur d'une IA creative ou sinon car c'est trop dur un programme 
 <br><br>command.txt: fichier contenant toutes les commandes de kinger dans l'ep8.
 <br>Media/Pictures: contient toutes les images qu'a assimilé l'IA de Caine + qql screen de l'ep8.
 <br>Start/the-amazing-digital-circus-lost-demo-windows: Fangame créer par Yaman Studios, j'espère qu'ils ne m'en voudront pas de mettre le fichier de la 1.1 en zip étant donné qu'il est gratuit.
-<br>Character/CA_NeutralScans[Obsolete]: Modèle Blender de Jax créé par Lukasz.
+<br>Character/CA_NeutralScans[Obsolete]: Modèle Blender des persos de TADC créé par Malik Radwan.
 
 <br><br><strong>Caine est une Machine Learning discriminatif et non supervisé accés sur des données ne contenant que des images.</strong>
 <br><!--On va d'abbord commencé par un programe/IA supervisé pour ensuite allez sur du clustering ou non supervisé.-->
