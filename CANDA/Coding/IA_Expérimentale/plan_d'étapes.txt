@@ -1,0 +1,9 @@
+WELCOME TO C&A !
+1- programme effet de bord
+2-programme discriminatif
+3-programme de reconnaissance d'images
+4-programme prédiction d'aggloméra de nombres sur un graphique
+5-programme génératif simple qui renvoie la forme géométrique reconnu sur l'image à l'utilisateur qui envoie une image dans le chat de l'IA.
+-----------------------
+6-toutes figures géométriques fermées devra être reconnu  même de largeur 1 pixel qui correspondrait à une ligne !
+7-mettre l'ia dans un système fermé car elle est un test expérimental et pour l'empêcher quelle interagisse/impacte avec la deuxième IA (projet plus aboutie).
