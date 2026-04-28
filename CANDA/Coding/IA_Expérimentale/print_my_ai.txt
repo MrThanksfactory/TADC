@@ -2,23 +2,30 @@ WELCOME TO C&A !
 1- programme effet de bord
 2-programme discriminatif
 3-programme de reconnaissance d'images
-4-programme prédiction d'aggloméra de nombres sur un graphique
+4-programme prédiction d'aggloméra de nombres sur un graphique (Clustering)
 5-programme génératif simple qui renvoie la forme géométrique reconnu sur l'image à l'utilisateur qui envoie une image dans le chat de l'IA.
 -----------------------
 6-toutes figures géométriques fermées devra être reconnu  même de largeur 1 pixel qui correspondrait à une ligne !
 7-mettre l'ia dans un système fermé car elle est un test expérimental et pour l'empêcher quelle interagisse/impacte avec la deuxième IA (projet plus aboutie).
 
 
-Remarques: Alors pour la reconnaissance d'images je vais utiliser l'algorithme viola Johns, et je crois que dans sa vidéo tuto il a effectivement utilisé une 
-bibliothèque python. Pour le programme discriminatif ce sera effectivement sur la formes des figures géométriques pareils pour la reconnaissance d'images qui
+Remarques: Alors pour l'étape 2 je vais utiliser le module numpy de la bibliothèque np. Pour la reconnaissance d'images je vais utiliser l'algorithme viola Johns, et je crois que dans sa vidéo tuto il a effectivement utilisé une bibliothèque python. Pour le programme discriminatif ce sera effectivement sur la formes des figures géométriques pareils pour la reconnaissance d'images qui
 se fera sur des images du quotidien mais dont l'IA devra reconnaitre des formes classiques de géométrie pour commencer car sinon ça demande trop de calcul si 
-on fait pour toutes formes géométriques fermées même si vers le futur j'aimerais tendre vers cela.;) Pour l'étape 4 les résultats ne seront affiché que pour le
+on fait pour toutes formes géométriques fermées, même si vers le futur j'aimerais tendre vers cela. Pour l'étape 4 les résultats ne seront affichés que pour le
 côté développer et non celui du côté client qui correspond à la réponse du chat, je devrais effectivement voir si il sera dynamiques ou statiques. Pour l'étape
 5 si l'image est floue ou ambigue il sera demandé à l'utilisateur de mettre une autre image plus clair ou de essayer de la renvoyer car celle ci sera 
 inutilisable. Pour l'étape 6 c'était si jamais il n'y a pas de figure géométrique simple l'image à normalement comme toute image une ligne droite donc il 
 faudrait la reconnaitre et la renvoyer à l'utilisateur mais pour commencer puisque c'est trop coûteux en calculs l'ia pourra dire à l'utilisateur de changer
-cette image car pas de figures simples dessus !;) Et pour l'étape 7 c'est pour que dès qu'on a terminé avec cette IA expérimental on la mets dans un système
+cette image car il y a pas de figures simples dessus !;) Et pour l'étape 7 c'est pour que dès qu'on en a terminé avec cette IA expérimental on la met dans un système
 fermé pour pas quelle impacte l'autre plus aboutie et aussi si jamais l'autre à un problème ou se crash !;) Et du coup la deuxième plus aboutie pourra être 
-celle qui aura un côté client avec un retour chat !;))
+celle qui aura un côté client avec un retour chat ! Le programme se fera en python et une grande partie en programmation orienté objet (POO).
 
-Copyright (c) 2026 MrThanksfactory by my
+Convolution: C'est en résumé le produit factoriel de la valeur de deux synapses avec les valeurs de deux poids de synapses. Par exemple: 2*0.7+3*0.5, je rappelle le poids des synapses est tjrs en pourcentage qui sera tjrs représenté avec des chiffres à virgules. 
+
+Algorithme du Gradient pour la rétropropagation: Calculer la marge d'erreur (input-output), appliquer la dérivée de la f(x) sigmoïde à l'erreur=l'erreur_delta, Mutiplications matricielle entre w2 et erreur_delta= l'erreur_2_cachée, appliquer la dérivée de la f(x) sigmoïd à l'erreur_2=l'erreur_2_delta_cachée.
+
+CLustering: Qui classe des données, méthode ayant pour but de diviser un ensemble de données en différents sous-ensembles homogènes, c'est-à-dire partageant des caractéristiques communes. (google)
+
+Le poids d'un synapses représente la force/l'intensité de nos noeux.
+
+Copyright (c) 2026 MrThanksfactory by me
