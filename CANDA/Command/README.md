@@ -48,4 +48,13 @@ $ : Sur quels FONDEMENTS repose votre autorité ? <mark>(utilisateur inconnu, Ca
 kinger@circus: ~$ ./TERRAINSVert --démon --cible injection de tourments a (en anglais: kinger@circus: ~$ ./GreenGROUNDS --daemon --target torment_injection a)<br>
 $: « ALERTE DE SÉCURITÉ : plusieurs tentatives d'exploitation ont été enregistrées »<br>
 $: WHOA, quand as-tu fait ÇA ?<br>
-$: Je dois te l'accorder, G, tu as toujours eu l'esprit plein de ressources <mark>(G surement la première lettre du vrai prénom de Kinger)</mark>
+$: Je dois te l'accorder, G, tu as toujours eu l'esprit plein de ressources <mark>(G surement la première lettre du vrai prénom de Kinger)</mark><br>
+kinger@circus: ~$ -u kinger ./inspection de sécurité discrète<br>
+$ : Interrompre la procédure de secours ? [O/N]<br>
+kinger@circus : ~$ O<br>
+$ : L'interruption de la procédure de secours nécessite-t-elle la confirmation de l'ADMINISTRATEUR ?<br>
+$ : Veuillez saisir le code :<br>
+kinger@circus : ~$ admin1234<br>
+$ : INCORRECT. Ce n'est même pas assez farfelu.<br>
+$ : Réessayer avec un autre code ? [O/N]<br>
+kinger@circus : ~$ O
