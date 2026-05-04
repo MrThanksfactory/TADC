@@ -33,8 +33,19 @@ drwxr-xr-x 45 root wheel 1024 Oct 15 1996 ] .. (pas important affichage sur le t
 la conscience scanner de Scratch, celui de Ragatha. On a aussi le programme en c de la wacky watch et celui de l'IA de bubble car elle finit en .lisp comme celui de Caine</mark><br>
 kinger@circus: ~$ arrêter le processus de caine<br>
 AVERTISSEMENT : $« ~%OUPS, MAUVAISE APPROCHE LÀ~% »<br>
-kinger@circus: ~$ /utilisateur/corbeille/Gnu Debugger utilisateur<mark>(outil de débogage, réparation de bugs)</mark>/locale/corbeille/clisp 1337 (ça c'est le registre de la corbeille)
-gdb: ptrace: Opération non permise (réponse de l'outil)
-ERREUR : Protection assurée par le système de défense immersif 57x basé sur l'IA
-kinger@circus: ~$ chmod 000 /sécurisé/caine-core.lisp <mark>(Demande de passage en mode admin pour sécurisé le proramme de Caine)</mark>
+kinger@circus: ~$ /utilisateur/corbeille/Gnu Debugger utilisateur<mark>(outil de débogage, réparation de bugs)</mark>/locale/corbeille/clisp 1337 (ça c'est le registre de la corbeille)<br>
+gdb: ptrace: Opération non permise (réponse de l'outil)<br>
+ERREUR : Protection assurée par le système de défense immersif 57x basé sur l'IA<br>
+kinger@circus: ~$ chmod 000 /sécurisé/caine-core.lisp <mark>(Demande de passage en mode admin pour sécurisé le proramme de Caine)</mark><br>
+chmod : /sécurisé/caine-core.lisp<br>
+AVERTISSEMENT : Travail inachevé<br><br>
 
+-------------------------------------------------------------------
+<br>
+WACKYTIME_BLOCAGE: **|||||||| 20% chargé<br>
+kinger@circus: ~$ systemctl stop WACKYTIME_BLOCAGE (commande système : arrête WACKYTIME_LOCKOUT)<br>
+$ : Sur quels FONDEMENTS repose votre autorité ? <mark>(utilisateur inconnu, Caine ? Qqn d'autres?)</mark><br>
+kinger@circus: ~$ ./TERRAINSVert --démon --cible injection de tourments a (en anglais: kinger@circus: ~$ ./GreenGROUNDS --daemon --target torment_injection a)<br>
+$: « ALERTE DE SÉCURITÉ : plusieurs tentatives d'exploitation ont été enregistrées »<br>
+$: WHOA, quand as-tu fait ÇA ?<br>
+$: Je dois te l'accorder, G, tu as toujours eu l'esprit plein de ressources <mark>(G surement la première lettre du vrai prénom de Kinger)</mark>
