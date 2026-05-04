@@ -24,8 +24,8 @@ drwxr-xr-x 45 root wheel 1024 Oct 15 1996 ] .. (pas important affichage sur le t
 -rwxr-xr-x 1 root wheel 234512 Oct 15 1996 paraphernalia-engine.dat<br>
 -rwxr-xr-x 1 root wheel 234512 Oct 15 1999 [Scratch].dat<br>
 -rwxr-xr-x 1 root wheel 234512 Oct 15 2008 [Ragatha].dat<br>
-...
-...
+...<br>
+...<br>
 -rwxr-xr-x 1 root wheel 45632 Oct 15 1996 wacky-watch.c<br>
 -rwxr-xr-x 1 root wheel 78234 Oct 15 1966 bubble-chef.lisp</strong><br>
 <br>
