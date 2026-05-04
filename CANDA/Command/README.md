@@ -57,4 +57,10 @@ $ : Veuillez saisir le code :<br>
 kinger@circus : ~$ admin1234<br>
 $ : INCORRECT. Ce n'est même pas assez farfelu.<br>
 $ : Réessayer avec un autre code ? [O/N]<br>
-kinger@circus : ~$ O
+kinger@circus : ~$ O<br>
+WACKYTIME_BLOCAGE:: ****|||||| 40% chargé<br>
+$ : Entrez le code WACKY_code maintenant :<br>
+kinger@circus : ~$ PARAPHERNALIA (Avis du recopieur du code cette dernière ligne means PARAPHERNAL + IA)<br>
+WACKYTIME : Il reste 35 secondes<br>
+$ : C'est bien un mot farfelu ? Mais le code est-il incorrect ?<br>
+$ : Système refusé
