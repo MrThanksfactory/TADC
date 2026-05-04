@@ -30,6 +30,11 @@ drwxr-xr-x 45 root wheel 1024 Oct 15 1996 ] .. (pas important affichage sur le t
 -rwxr-xr-x 1 root wheel 78234 Oct 15 1966 bubble-chef.lisp</strong><br>
 <br>
 <mark>(Ceci sont les fichiers de lancement des programmes de Caine créé le 15 octobre 1996, celui qui s'occupe du moteurs qui gère les accessoires dans le cirque paraphernalia-engine.dat, on a aussi les fichiers de <br>
-la conscience scanner de Scratch, celui de Ragatha. On a aussi le programme en c de la wacky watch et celui de l'IA de bubble car elle finit en .lisp comem celui de Caine</mark><br>
-kinger@circus: ~$ arrêter le processus de caine
+la conscience scanner de Scratch, celui de Ragatha. On a aussi le programme en c de la wacky watch et celui de l'IA de bubble car elle finit en .lisp comme celui de Caine</mark><br>
+kinger@circus: ~$ arrêter le processus de caine<br>
+AVERTISSEMENT : $« ~%OUPS, MAUVAISE APPROCHE LÀ~% »<br>
+kinger@circus: ~$ /utilisateur/corbeille/Gnu Debugger utilisateur<mark>(outil de débogage, réparation de bugs)</mark>/locale/corbeille/clisp 1337 (ça c'est le registre de la corbeille)
+gdb: ptrace: Opération non permise (réponse de l'outil)
+ERREUR : Protection assurée par le système de défense immersif 57x basé sur l'IA
+kinger@circus: ~$ chmod 000 /sécurisé/caine-core.lisp <mark>(Demande de passage en mode admin pour sécurisé le proramme de Caine)</mark>
 
