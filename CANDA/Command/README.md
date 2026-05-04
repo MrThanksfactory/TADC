@@ -1,35 +1,35 @@
  # Traduction des commandes de Kinger et explications de l'action de celles-ci.
 <br><br>
-#Système: King Solution 2.0. / Serveur central du Cirque Numérique
-#Date: 30/10/1996
-#Hôte: cirque numérique
-"Initialisation de la connexion Telnet..."
-identifiant: "Kinger"
-mot de passe: queenie123
-kinger@circus: ~$ qui je suis ?
-kinger - administrateur
+#Système: King Solution 2.0. / Serveur central du Cirque Numérique<br>
+#Date: 30/10/1996<br>
+#Hôte: cirque numérique<br>
+"Initialisation de la connexion Telnet..."<br>
+identifiant: "Kinger"<br>
+mot de passe: queenie123<br>
+kinger@circus: ~$ qui je suis ?<br>
+kinger - administrateur<br>
 <br><br>
 
 --------------------------------------------------------------------------------
 <br><br>
-routeur 1339 /utilisateur/ia/module/recherche sur la conscience (lancement des modules de base par le PC ou kinger qui rentre dans le fichier exploreur, voici les différents fichiers de base)
-routeur 1340 utilisateur/ia/module/scanners cérébraux
-kinger@circus: ~$ /sécurisé/ (kinger veut accéder au dossier sécurisé de l'ordi)
-(kinger a du faire ls pour regarder quels sont les fichiers et dossier dans le dossier sécurisé)
+routeur 1339 /utilisateur/ia/module/recherche sur la conscience (lancement des modules de base par le PC ou kinger qui rentre dans le fichier exploreur, voici les différents fichiers de base)<br>
+routeur 1340 utilisateur/ia/module/scanners cérébraux<br>
+kinger@circus: ~$ /sécurisé/ (kinger veut accéder au dossier sécurisé de l'ordi)<br>
+(kinger a du faire ls pour regarder quels sont les fichiers et dossier dans le dossier sécurisé)<br>
 [ total 8492
 drwxr-xr-x 3 root wheel 512 Oct 15 1996 .
-drwxr-xr-x 45 root wheel 1024 Oct 15 1996 ] .. (pas important affichage sur le terminale des dossiers)
+drwxr-xr-x 45 root wheel 1024 Oct 15 1996 ] .. (pas important affichage sur le terminale des dossiers)<br>
 
-<trong>-rwxr-xr-x 1 root wheel 892344 Oct 15 1996 caine.core.lisp
--rwxr-xr-x 1 root wheel 234512 Oct 15 1996 paraphernalia-engine.dat
--rwxr-xr-x 1 root wheel 234512 Oct 15 1999 [Scratch].dat
--rwxr-xr-x 1 root wheel 234512 Oct 15 2008 [Ragatha].dat
+<trong>-rwxr-xr-x 1 root wheel 892344 Oct 15 1996 caine.core.lisp<br>
+-rwxr-xr-x 1 root wheel 234512 Oct 15 1996 paraphernalia-engine.dat<br>
+-rwxr-xr-x 1 root wheel 234512 Oct 15 1999 [Scratch].dat<br>
+-rwxr-xr-x 1 root wheel 234512 Oct 15 2008 [Ragatha].dat<br>
 ...
 ...
--rwxr-xr-x 1 root wheel 45632 Oct 15 1996 wacky-watch.c
--rwxr-xr-x 1 root wheel 78234 Oct 15 1966 bubble-chef.lisp</strong>
+-rwxr-xr-x 1 root wheel 45632 Oct 15 1996 wacky-watch.c<br>
+-rwxr-xr-x 1 root wheel 78234 Oct 15 1966 bubble-chef.lisp</strong><br>
 <br>
 <mark>(Ceci sont les fichiers de lancement des programmes de Caine créé le 15 octobre 1996, celui qui s'occupe du moteurs qui gère les accessoires dans le cirque paraphernalia-engine.dat, on a aussi les fichiers de <br>
-la conscience scanner de Scratch, celui de Ragatha. On a aussi le programme en c de la wacky watch et celui de l'IA de bubble car elle finit en .lisp comem celui de Caine</mark>
+la conscience scanner de Scratch, celui de Ragatha. On a aussi le programme en c de la wacky watch et celui de l'IA de bubble car elle finit en .lisp comem celui de Caine</mark><br>
 kinger@circus: ~$ arrêter le processus de caine
 
