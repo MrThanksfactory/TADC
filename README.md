@@ -1,5 +1,5 @@
 # TADC
-Projet dans le futur d'une IA creative ou sinon car c'est trop dur un programme qui arrive à reconnaitre des formes géométrique sur une photos et qui asimile cette même photo dans sa base de données !
+Projet dans le futur d'une IA creative ou sinon car c'est trop dur un programme qui arrive à reconnaitre des formes géométrique sur une photos et qui asimile ces même photos dans sa base de données !
 <br>Pour l'instant le repertoire TADC contient tout les fichiers de Caine in the ep8.
 <br>L'objectif de ce repositories est de mettre toutes création en lien avec TADC y comprit mon projet d'IA.
 
@@ -9,6 +9,6 @@ Projet dans le futur d'une IA creative ou sinon car c'est trop dur un programme 
 <br>Character/CA_NeutralScans[Obsolete]: Modèle Blender des persos de TADC créé par Malik Radwan.
 <br>Coding/IA_Expérimentale: Plan d'étapes de mon IA (attention le plan est Copyright!)
 
-<br><br><strong>Caine est une Machine Learning discriminatif et non supervisé accés sur des données ne contenant que des images.</strong>
+<br><br><strong>Caine est une Machine Learning discriminatif et non supervisé accés sur des données ne contenant que des images. C&A est une abréviation de Conscience Artificielle.</strong>
 <br><!--On va d'abbord commencé par un programe/IA supervisé pour ensuite allez sur du clustering ou non supervisé.-->
-<!-- Ensuite pour le résultat final j'aimerais bien qu'en reconnaisant les formes géométriques sur l'image qu'elle renvoie au client cette forme sous résultat génératif car le client ne peut pas avoir accès à l'image car il fera parti de l'espace développeur/admin.-->
+<!-- Ensuite pour le résultat final j'aimerais bien qu'en reconnaisant les formes géométriques sur l'image qu'elle renvoie au client cette forme sous résultat génératif car le client ne peut pas avoir accès à l'image car il ne fera parti de l'espace développeur/admin.-->
