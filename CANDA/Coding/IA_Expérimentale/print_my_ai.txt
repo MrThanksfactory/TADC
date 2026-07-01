@@ -17,15 +17,29 @@ Type de structure de données abstraite :
 Remarques pour Caine : = IA qui doit être dans un environnement fermé, totalement seule et elle ne doit pas avoir bcp de moyens, car sa seule utilité et de renvoyer les bonnes 
 formes géo trouvées dans une image et ensuite après lui donner une conscience de son environnement fermé.
 
-Remarques : alors pour l'étape 2, je vais utiliser le module numpy de la bibliothèque np. Pour la reconnaissance d'images, je vais utiliser l'algorithme viola Johns, et je crois que dans sa vidéo tuto, il a effectivement utilisé une bibliothèque python. Pour le programme discriminatif, ce sera effectivement sur la forme des figures géométriques pareille pour la reconnaissance d'images qui se fera sur des images du quotidien, mais dont l'IA devra reconnaître des formes classiques de géométrie pour commencer, car sinon ça demande trop de calcul si on fait pour toute formes géométriques fermées, même si vers le futur j'aimerais tendre vers cela, on utilisera la bibliothèque cv2. Pour l'étape 4, les résultats ne seront affichés que pour le côté développer et non celui du côté client qui correspond à la réponse du chat, je devrais effectivement voir s'il sera dynamiques ou statiques aussi pour cette étape, on va utiliser les bibliothèque numpy, matplotlib et scikit-learn, pour cette étape, on va utiliser l'algorithme de Lloyd et du k-means. Pour l'étape 5, si l'image est floue ou ambiguë, il sera demandé à l'utilisateur de mettre une autre image plus clair ou d'essayer de la renvoyer car celle-ci sera inutilisable. Pour l'étape 6, c'était si jamais il n'y a pas de figure géométrique simple l'image à normalement comme toute image une ligne droite donc il faudrait là reconnaître et là renvoyer à l'utilisateur, mais pour commencer puisque c'est trop coûteux en calculs l'IA pourra dire à l'utilisateur de changer cette image car il n'y a pas de figures simples dessus !;) Et pour l'étape 7, c'est pour que dès qu'on en a terminé avec cette IA expérimentale, on la mette dans un système fermé pour pas qu'elle impacte l'autre plus aboutie et aussi si jamais l'autre à un problème ou ce crash !;) Et du coup, la deuxième plus aboutie pourra être celle qui aura un côté client avec un retour chat ! Le programme se fera en python et une grande partie en programmation orientée objet (POO).
+Remarques : alors pour l'étape 2, je vais utiliser le module numpy de la bibliothèque np. Pour la reconnaissance d'images, je vais utiliser l'algorithme viola Johns, et je 
+crois que dans sa vidéo tuto, il a effectivement utilisé une bibliothèque python. Pour le programme discriminatif, ce sera effectivement sur la forme des figures géométriques 
+pareille pour la reconnaissance d'images qui se fera sur des images du quotidien, mais dont l'IA devra reconnaître des formes classiques de géométrie pour commencer, car sinon 
+ça demande trop de calcul si on fait pour toute formes géométriques fermées, même si vers le futur j'aimerais tendre vers cela, on utilisera la bibliothèque cv2. Pour l'étape 
+4, les résultats ne seront affichés que pour le côté développer et non celui du côté client qui correspond à la réponse du chat, je devrais effectivement voir s'il sera 
+dynamiques ou statiques aussi pour cette étape, on va utiliser les bibliothèque numpy, matplotlib et scikit-learn, pour cette étape, on va utiliser l'algorithme de Lloyd et du 
+k-means. Pour l'étape 5, si l'image est floue ou ambiguë, il sera demandé à l'utilisateur de mettre une autre image plus clair ou d'essayer de la renvoyer car celle-ci sera 
+inutilisable. Pour l'étape 6, c'était si jamais il n'y a pas de figure géométrique simple l'image à normalement comme toute image une ligne droite donc il faudrait là 
+reconnaître et là renvoyer à l'utilisateur, mais pour commencer puisque c'est trop coûteux en calculs l'IA pourra dire à l'utilisateur de changer cette image car il n'y a pas 
+de figures simples dessus !;) Et pour l'étape 7, c'est pour que dès qu'on en a terminé avec cette IA expérimentale, on la mette dans un système fermé pour pas qu'elle impacte 
+l'autre plus aboutie et aussi si jamais l'autre à un problème ou ce crash !;) Et du coup, la deuxième plus aboutie pourra être celle qui aura un côté client avec un retour 
+chat ! Le programme se fera en python et une grande partie en programmation orientée objet (POO).
 
-Convolution : c'est en résumé le produit factoriel de la valeur de deux synapses avec les valeurs de deux poids de synapses. Par exemple : 2*0.7+3*0.5, je rappelle le poids des synapses est tjrs en pourcentage qui sera tjrs 
+Convolution : c'est en résumé le produit factoriel de la valeur de deux synapses avec les valeurs de deux poids de synapses. Par exemple : 2*0.7+3*0.5, je rappelle le poids 
+des synapses est tjrs en pourcentage qui sera tjrs 
 représenté avec des chiffres à virgules. 
 
-Algorithme du Gradient pour la rétropropagation : calculer la marge d'erreur (input-output), appliquer la dérivée de la f(x) sigmoïde à l'erreur=l'erreur_delta, Mutiplications matricielle entre w2 et erreur_delta= 
+Algorithme du Gradient pour la rétropropagation : calculer la marge d'erreur (input-output), appliquer la dérivée de la f(x) sigmoïde à l'erreur=l'erreur_delta, Mutiplications 
+matricielle entre w2 et erreur_delta= 
 l'erreur_2_cachée, appliquer la dérivée de la f(x) sigmoïd à l'erreur_2=l'erreur_2_delta_cachée.
 
-CLustering: Qui classe des données, méthode ayant pour but de diviser un ensemble de données en différents sous-ensembles homogènes, c'est-à-dire partageant des caractéristiques communes. (google)
+CLustering: Qui classe des données, méthode ayant pour but de diviser un ensemble de données en différents sous-ensembles homogènes, c'est-à-dire partageant des 
+caractéristiques communes. (google)
 Algorithme de Lloyd: Initialiser les centroïdes, regarder quel centroïdes est le plus proche du point courant et enfin recalculer les centroïdes.
 
 caractéristiques speudos art: caratéristique bord/caractéristique ligne
