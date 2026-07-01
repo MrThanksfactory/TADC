@@ -48,7 +48,7 @@ $ : Sur quels FONDEMENTS repose votre autorité ? <mark>(utilisateur inconnu, Ca
 kinger@circus: ~$ ./TERRAINSVert --démon --cible injection de tourments a (en anglais: kinger@circus: ~$ ./GreenGROUNDS --daemon --target torment_injection a)<br>
 $: « ALERTE DE SÉCURITÉ : plusieurs tentatives d'exploitation ont été enregistrées »<br>
 $: WHOA, quand as-tu fait ÇA ?<br>
-$: Je dois te l'accorder, G, tu as toujours eu l'esprit plein de ressources <mark>(G surement la première lettre du vrai prénom de Kinger)</mark><br>
+$: Je dois te l'accorder, G, tu as toujours eu l'esprit plein de ressources <mark>(G surement la première lettre du vrai prénom de Kinger, dans l'ep8 on nous avoue qu'il s'apelle Grant Best)</mark><br>
 kinger@circus: ~$ -u kinger ./inspection de sécurité discrète<br>
 $ : Interrompre la procédure de secours ? [O/N]<br>
 kinger@circus : ~$ O<br>
