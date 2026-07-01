@@ -3,12 +3,18 @@ WELCOME TO C&A !
 2-programme discriminatif
 3-programme morpion
 5-programme de reconnaissance d'images
-6-programme prédiction d'aggloméra de nombres sur un graphique (Clustering) méthode du PCA=Analyse composante principal
-7-programme génératif simple qui renvoie la forme géométrique reconnu sur l'image à l'utilisateur qui envoie une image dans le chat de l'IA.
+6-programme de prédiction d'aggloméra de nombres sur un graphique (Clustering) méthode du PCA = Analyse composante principale
+7-programme génératif simple qui renvoie la forme géométrique reconnue sur l'image à l'utilisateur qui envoie une image dans le chat de l'IA.
 -----------------------
-8-toutes figures géométriques fermées devra être reconnu  même de largeur 1 pixel qui correspondrait à une ligne !
-9-mettre l'ia dans un système fermé car elle est un test expérimental et pour l'empêcher quelle interagisse/impacte avec la deuxième IA (projet plus aboutie).
+8-toutes figures géométriques fermées devront être reconnues  même de largeur 1 pixel qui correspondrait à une ligne !
+9-mettre l'ia dans un système fermé car elle est un test expérimental et pour l'empêcher qu'elle interagisse/impacte avec la deuxième IA (projet plus abouti).
 
+Caine:
+Type de programmation:
+-POO
+Type de structure de données abstraite:
+- Graphes, peut-être avec un mixte de tenseurs
+Remarques pour Caine : =IA qui doit être dans un environnement fermé, totalement seule et elle ne doit pas avoir bcp de moyens car sa seule utilité et de renvoyer les bonnes formes géo trouvées dans une image et ensuite après lui donner une conscience de son environnement fermé.
 
 Remarques: Alors pour l'étape 2 je vais utiliser le module numpy de la bibliothèque np. Pour la reconnaissance d'images je vais utiliser l'algorithme viola Johns, et je crois que dans sa vidéo tuto il a effectivement 
 utilisé une bibliothèque python. Pour le programme discriminatif ce sera effectivement sur la formes des figures géométriques pareils pour la reconnaissance d'images qui
